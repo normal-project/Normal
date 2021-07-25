@@ -1,38 +1,32 @@
 {
   "name": "normal",
-  "version": "1.0",
-  "description": "Un bot que siempre tiene comandos nuevos",
-  "main": "normal.js",
-  "dependencies": {
-    "discord.js": "github:discordjs/discord.js",
-    "dotenv": "^10.0.0",
-    "klasa": "github:dirigeants/klasa#v0.5.0",
-    "nekos.life": "^2.0.7",
-    "node-fetch": "^2.6.1"
-  },
-  "devDependencies": {},
+  "version": "2.0a",
+  "description": "Un bot sencillo y multipropósito",
+  "main": "dist/index.js",
+  "author": "Gátomo",
+  "license": "MIT",
   "scripts": {
-    "start": "node src/normal.js"
+	"start": "node src/normal.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatomo-oficial/Normal.git"
+	"type": "git",
+	"url": "git+https://github.com/normal-project/Normal.git"
   },
   "keywords": [
-    "Normal",
-    "Bot",
-    "Discord",
-    "Discord",
-    "bot",
-    "Gatomo"
+	"Normal",
+	"Bot",
+	"Discord",
+	"Discord",
+	"bot",
+	"Gatomo"
   ],
-  "author": "Gátomo",
   "engines": {
-    "node": ">=12.x"
+	"node": ">=14.x"
   },
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gatomo-oficial/Normal/issues"
+	"url": "https://github.com/normal-project/Normal/issues"
   },
-  "homepage": "https://github.com/gatomo-oficial/Normal#readme"
+  "homepage": "https://github.com/normal-project/Normal#readme"
 }
+
+

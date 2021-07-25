@@ -28,11 +28,15 @@
   </p>
 </div>
 
-## 😸 Normal
- Un bot sencillo y multipropósito
+## 😸 Normal 2.0 Alfa branch
+ La rama alfa de un bot sencillo y multipropósito
  
-# ⚠️ Atención
-### La versión 2.0 está en desarrollo. El soporte para la 1.0 ha llegado a su fin. Solo se repararán pequeños bugs. Más info en el server de soporte
+### 🎍 Novedades
+- Escrito en TypeScript
+- Basado únicamente en Discord.JS con handling (sin frameworks raros)
+- Mejor mantenido
+- Más comandos de todo tipo
+- Más...
 
 - 🤖 **Bot** [Click aquí](https://discord.com/oauth2/authorize?client_id=698568850651873299&scope=bot&permissions=2146823423&internal_referrer=true)
 - 🧣 **Top.gg** [Click aquí](https://top.gg/bot/698568850651873299)
@@ -40,7 +44,7 @@
 
 
 ### 🎎 Info
-Normal es un bot sencillo y multipropósito para Discord. Está escrito en JavaScript con ayuda del framework Klasa.
+Normal es un bot sencillo y multipropósito para Discord. Esta versión estará escrita en TypeScript únicamente con Discord.JS
 
 ### 📢 Anuncios
 - En el server de Discord

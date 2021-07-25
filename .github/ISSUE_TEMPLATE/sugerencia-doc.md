@@ -8,4 +8,4 @@ assignees: gatomo-oficial, cactus711
 ---
 
 **Nombre:** Nombre de la sugerencia
-**Sugerencia:** describe todo :v. Me da igual si usas emojis
+**Sugerencia:** describe todo. Me da igual si usas emojis

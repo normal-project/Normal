@@ -5,6 +5,7 @@ other/
 *.iml
 /rethinkdb_data/
 coverage/
+dist/
 .env
 
 dist/

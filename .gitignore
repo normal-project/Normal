@@ -17,8 +17,6 @@ bwd/
 !src/**/*.d.ts
 **/*.tsbuildinfo
 
-config.ts
-
 *.heapsnapshot
 *.log
 

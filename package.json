@@ -1,32 +1,36 @@
 {
-  "name": "normal",
-  "version": "2.0a",
-  "description": "Un bot sencillo y multipropósito",
-  "main": "dist/index.js",
-  "author": "Gátomo",
-  "license": "MIT",
-  "scripts": {
-	"start": "node src/normal.js"
-  },
-  "repository": {
-	"type": "git",
-	"url": "git+https://github.com/normal-project/Normal.git"
-  },
-  "keywords": [
-	"Normal",
-	"Bot",
-	"Discord",
-	"Discord",
-	"bot",
-	"Gatomo"
-  ],
-  "engines": {
-	"node": ">=14.x"
-  },
-  "bugs": {
-	"url": "https://github.com/normal-project/Normal/issues"
-  },
-  "homepage": "https://github.com/normal-project/Normal#readme"
+ "name": "normal",
+ "version": "2.0a",
+ "description": "Un bot sencillo y multipropósito",
+ "main": "dist/index.js",
+ "author": "Gátomo",
+ "license": "MIT",
+ "scripts": {
+  "start": "tsc && node dist/index.js"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/normal-project/Normal.git"
+ },
+ "keywords": [
+  "Normal",
+  "Bot",
+  "Discord",
+  "Discord",
+  "bot",
+  "Gatomo"
+ ],
+ "engines": {
+  "node": ">=14.x"
+ },
+ "bugs": {
+  "url": "https://github.com/normal-project/Normal/issues"
+ },
+ "homepage": "https://github.com/normal-project/Normal#readme",
+ "dependencies": {
+  "@types/node": "^16.4.2",
+  "discord.js": "^12.5.3",
+  "dotenv": "^10.0.0",
+  "mongoose": "^5.13.3"
+ }
 }
-
-

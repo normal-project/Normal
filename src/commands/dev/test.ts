@@ -22,6 +22,6 @@ export const command: Command = {
         const age = args[1]
         const algo = args[2]
 
-        msg.channel.send(`**Has dado 3 argumentos:** *${name}*, *${age}* y *${algo}*`)
+        msg.channel.send(`**Has dado 3 argumentos:** *${name || 'Ninguno'}*, *${age || 'Ninguno'}* y *${algo || 'Ninguno'}*`) // El || lo que hace es que si no hay argumento no pone nada
     }
 }

@@ -8,7 +8,7 @@ module.exports = class extends Command {
             name: 'say',
             enabled: true,
             runIn: ['text'],
-            cooldown: 0,
+            cooldown: 1,
             deletable: false,
             bucket: 1,
             aliases: ['speak'],
@@ -18,7 +18,7 @@ module.exports = class extends Command {
             requiredPermissions: [],
             requiredSettings: [],
             subcommands: false,
-            description: 'Envía un mensaje por MD a un usuario (uso para devs)',
+            description: 'Hace que el bot diga lo que quieras',
             quotedStringSupport: false,
             extendedHelp: 'Envía un mensaje a un usuario por MD para notificaciones del bot (blacklist, solicitud de algo, etc.)',
             usage: '<msg:string>',
@@ -27,7 +27,7 @@ module.exports = class extends Command {
     }
         
     async run(message, [msg]) {
-        message.delete();
-        message.channel.send(msg);
+        message.delete(); 
+        message.channel.send(msg); // Estaba intentando arreglar esto pero el problema es que el help no reconoce el comando y por algo relacionado no funciona -SCP
     }
 }

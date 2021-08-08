@@ -33,13 +33,8 @@
  
 ### 🎍 Novedades
 - Escrito en TypeScript
-<<<<<<< HEAD
 - Basado únicamente en Discord.JS v. 13 con handling (sin frameworks raros)
-- Mejor mantenido
-=======
-- Basado únicamente en Discord.JS con handling (sin frameworks raros)
 - Mejor mantenimiento
->>>>>>> a610addc965cae9332af6094eb632bbc97c298f6
 - Más comandos de todo tipo
 - Y más...
 

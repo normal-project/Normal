@@ -1,37 +1,9 @@
-<div align="center">
-  <br />
-  <p>
-    <a href="https://discord.com/oauth2/authorize?client_id=698568850651873299&scope=bot&permissions=2146823423&internal_referrer=true"><img src="https://cdn.discordapp.com/attachments/707537070641381438/767462957294026772/unknown.png" width="256" height="256" alt="Normal" /></a>
-  </p>
-  
-  <br />
-  <p>
-    <a href="https://discord.gg/ZpWE57t"><img src="https://img.shields.io/discord/685949311443271744?color=7289DA&label=DISCORD&logo=DISCORD&style=for-the-badge" alt="Discord server" /></a>
-  <a href="https://github.com/normal-project/Normal/"><img src="https://img.shields.io/github/package-json/v/Gatomo-Bunkers/Normal?logo=Pinboard&style=for-the-badge" alt="Normal version" /></a>
-  <a href="https://github.com/normal-project/Normal/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gatomo-Bunkers/Normal.svg?logo=Github&style=for-the-badge" alt="Contributors" /></a>
-<br/>
-<a href="https://top.gg/bot/698568850651873299" >
-  <img src="https://top.gg/api/widget/status/698568850651873299.svg" alt="Normal" />
-</a>
-<a href="https://top.gg/bot/698568850651873299" >
-  <img src="https://top.gg/api/widget/servers/698568850651873299.svg" alt="Normal" />
-</a>
-<a href="https://top.gg/bot/698568850651873299" >
-  <img src="https://top.gg/api/widget/upvotes/698568850651873299.svg" alt="Normal" />
-</a>
-<a href="https://top.gg/bot/698568850651873299" >
-  <img src="https://top.gg/api/widget/lib/698568850651873299.svg" alt="Normal" />
-</a>
-<a href="https://top.gg/bot/698568850651873299" >
-  <img src="https://top.gg/api/widget/owner/698568850651873299.svg" alt="Normal" />
-</a>
-  </p>
-</div>
+# DEBIDO AL HACKEO DE MI CUENTA DE DISCORD EL BOT PERMANECERÁ SIN DESARROLLO Y APAGADO HASTA QUE DISCORD DECIDA ACTUAR EN ALGUN MOMENTO DE LA VIDA
 
 ## 😸 Normal
  Un bot sencillo y multipropósito
  
-# ⚠️ Atención
+## ⚠️ Atención
 ### La versión 2.0 está en desarrollo. El soporte para la 1.0 ha llegado a su fin. Solo se repararán pequeños bugs. Más info en el server de soporte
 
 - 🤖 **Bot** [Click aquí](https://discord.com/oauth2/authorize?client_id=698568850651873299&scope=bot&permissions=2146823423&internal_referrer=true)
